@@ -5,3 +5,5 @@ The website is hosted in Firebase at :https://covid-awareness-c92de.web.app/
 Do check it out.
 
 ## This site is simple designed to refresh the ideas and fundamentals of web development.
+
+### This website is completely responsive and uses the advanced flexbox for enhancing user experience.
